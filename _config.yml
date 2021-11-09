@@ -1,8 +1,7 @@
 theme: jekyll-theme-hacker
 
-
+title: "Jackmeister's website"
+description: "The purpose of this website is to let people know me better"
 github:
   is_project_page: false
 
-name: ""
-title: null
