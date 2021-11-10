@@ -1,6 +1,8 @@
 <html lang="en-US">
-<head>Collection of Tools used in Penetration Testing and CTF</head>
+<head><center>Collection of Tools used in Penetration Testing and CTF</center></head>
 <body>
+</br>
+</br>
 <a href="https://www.guballa.de/vigenere-solver" title="Vigenere-Solver">vigenere-solver</a>
 </br>
 </br>
