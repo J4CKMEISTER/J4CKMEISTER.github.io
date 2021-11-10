@@ -1,6 +1,4 @@
 ---
-layout: page
-permalink: /tools/
 description: "List of collection of tools for penetration testing and CTF"
 title: "Hacking Tools"
 ---
