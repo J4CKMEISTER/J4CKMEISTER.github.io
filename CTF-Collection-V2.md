@@ -27,19 +27,19 @@
 
 <p align="center">
  
-<image src=""/>
+<image src="https://user-images.githubusercontent.com/78603128/141087716-19f2b833-b63d-488d-8a8f-971ab9b8c370.png"/>
   
 </p>
 
 <p align="center">
  
-<image src=""/>
+<image src="https://user-images.githubusercontent.com/78603128/141087772-2dbd9b47-9609-48c7-b0d8-fca782357c29.png"/>
   
 </p>
 
 <p align="center">
  
-<image src=""/>
+<image src="https://user-images.githubusercontent.com/78603128/141087813-a17a764e-5836-4a09-8855-3b0cbeaffdbf.png"/>
   
 </p>
 
