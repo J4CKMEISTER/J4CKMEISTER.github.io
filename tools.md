@@ -6,7 +6,7 @@ title: "Hacking Tools"
 ---
 
 
-## Dos/DDos
+## CTF/Pentest
 
 Tool | Description
 -----|------------
