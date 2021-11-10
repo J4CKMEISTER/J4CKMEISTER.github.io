@@ -3,7 +3,7 @@ description: "List of collection of tools for penetration testing and CTF"
 title: "Hacking Tools"
 ---
 <p><center>
-<img src="https://user-images.githubusercontent.com/78603128/141178171-c777f226-0981-4700-9bf4-4cde819b10ce.png" width="50%" ></img>
+<img src="https://user-images.githubusercontent.com/78603128/141178171-c777f226-0981-4700-9bf4-4cde819b10ce.png" width="50%" >
 </center>
 </p>
 
