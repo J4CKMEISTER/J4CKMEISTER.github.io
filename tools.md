@@ -7,21 +7,9 @@ title: "Hacking Tools"
 </center>
 </p>
 
-<html>
-  <head>
-<style>
-  .desc{
-    font-weight: normal;
-    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-    color: #b5e853;
-    letter-spacing: -0.03em;
-    text-shadow: 0 1px 1px rgb(0 0 0 / 10%), 0 0 5px rgb(181 232 83 / 10%), 0 0 10px rgb(181 232 83 / 10%);  
-  }
-</style>
-    </head>
-</html>
 
-<p class="desc">
+
+<p>
   <center>
 CTF/Pentest Tools
   </center>
