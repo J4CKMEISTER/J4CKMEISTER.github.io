@@ -1,3 +1,6 @@
+<html lang="en-US">
+<head>Collection of Tools used in Penetration Testing and CTF</head>
+<body>
 <a href="https://www.guballa.de/vigenere-solver" title="Vigenere-Solver">vigenere-solver</a>
 </br>
 </br>
@@ -55,3 +58,5 @@ https://29a.ch/photo-forensics/#forensic-magnifier
 
 </br>
 </br>
+</body>
+</html>
