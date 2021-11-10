@@ -8,6 +8,7 @@ title: "Hacking Tools"
 </p>
 
 <html>
+  <head>
 <style>
   .desc{
     font-weight: normal;
@@ -17,6 +18,7 @@ title: "Hacking Tools"
     text-shadow: 0 1px 1px rgb(0 0 0 / 10%), 0 0 5px rgb(181 232 83 / 10%), 0 0 10px rgb(181 232 83 / 10%);  
   }
 </style>
+    </head>
 </html>
 
 <p class="desc">
