@@ -8,15 +8,16 @@ title: "Hacking Tools"
 </p>
 
 
-
-<p style="font-weight: normal;
+<body style="font-weight: normal;
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
     color: #b5e853;
     letter-spacing: -0.03em;">
+<p>
   <center>
 CTF/Pentest Tools
   </center>
 </p>
+</body>
 
 Tool | Description
 -----|------------
