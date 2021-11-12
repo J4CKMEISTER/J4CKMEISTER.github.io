@@ -10,11 +10,15 @@
   
 </p>
 
+<p>First we check the robots.txt as usual and what we got here :D ?</p>
+
 <p align="center">
  
 <image src="https://user-images.githubusercontent.com/78603128/141040158-3d936d27-3056-4b0f-9a98-9e4d44a8e36a.png"/>
   
 </p>
+
+<p>Put it into cyberchef and its HEX</p>
 
 
 
@@ -24,12 +28,16 @@
   
 </p>
 
+<p>While the another one is encoded with a few base64 ! But its not a flag ? its a directory</p>
+
 
 <p align="center">
  
 <image src="https://user-images.githubusercontent.com/78603128/141087716-19f2b833-b63d-488d-8a8f-971ab9b8c370.png"/>
   
 </p>
+
+<p>We open up and see no flag , ctrl+a (highlight all) and we can see the flag !</p>
 
 <p align="center">
  
