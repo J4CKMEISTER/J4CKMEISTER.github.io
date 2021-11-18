@@ -33,7 +33,11 @@ Tool | Description
 [Forensic-Magnifier](https://29a.ch/photo-forensics/#forensic-magnifier) | Forensic Magnifier
 [Wordpress shell upload](https://www.hacknos.com/wordpress-shell-upload/) | Wordpress shell upload guide
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRvKf8PMTu2RYmXOmSruRk5nPHj3xg3SiDr9v9KSJhjWywuHGa-ZFaCYdd23nNMOF6apwRv9WZEfeNm/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRvKf8PMTu2RYmXOmSruRk5nPHj3xg3SiDr9v9KSJhjWywuHGa-ZFaCYdd23nNMOF6apwRv9WZEfeNm/pub?embedded=true"  
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"></iframe>
 
 
 
