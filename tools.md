@@ -32,6 +32,7 @@ Tool | Description
 [steg](http://stylesuxx.github.io/steganography/) | steganography
 [Forensic-Magnifier](https://29a.ch/photo-forensics/#forensic-magnifier) | Forensic Magnifier
 [Wordpress shell upload](https://www.hacknos.com/wordpress-shell-upload/) | Wordpress shell upload guide
+[RevShell](https://www.revshells.com/) | Reverse shell payload generator
 
 
 
