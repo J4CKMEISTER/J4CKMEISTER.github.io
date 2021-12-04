@@ -37,8 +37,8 @@ Tool | Description
 [Nmap Python Script](https://github.com/dievus/threader3000) | Nmap python script by The Mayor
 [Morse Code Decode](https://morsecode.world/international/decoder/audio-decoder-adaptive.html) | Decode morse code into plain text
 [Yandex](https://yandex.com/images/) | Reverse Image Search
-[MS17-010](https://github.com/worawit/MS17-010) | Windows exploit to gain RCE
-[MS17-010](https://github.com/worawit/MS17-010) | Windows exploit to gain RCE
+[MS17-010](https://github.com/worawit/MS17-010) | Windows SMB exploit to gain RCE
+[CVE-2017-0213](https://github.com/SecWiki/windows-kernel-exploits/tree/master/CVE-2017-0213) | Windows kernal exploit to gain RCE
 [MS17-010](https://github.com/worawit/MS17-010) | Windows exploit to gain RCE
 
 
