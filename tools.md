@@ -33,6 +33,9 @@ Tool | Description
 [Forensic-Magnifier](https://29a.ch/photo-forensics/#forensic-magnifier) | Forensic Magnifier
 [Wordpress shell upload](https://www.hacknos.com/wordpress-shell-upload/) | Wordpress shell upload guide
 [RevShell](https://www.revshells.com/) | Reverse shell payload generator
+[PrintSpoofer](https://github.com/dievus/printspoofer) | Microsoft printer spoof exploit
+[Nmap Python Script](https://github.com/dievus/threader3000) | Nmap python script by The Mayor
+[MS17-010](https://github.com/worawit/MS17-010) | Windows exploit to gain RCE
 
 
 
