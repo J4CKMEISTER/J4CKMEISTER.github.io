@@ -27,6 +27,8 @@ Tool | Description
 [Hash-Analyzer](https://www.tunnelsup.com/hash-analyzer/) | Hash analyzer
 [JavaDeobjs](https://lelinhtinh.github.io/de4js/) | Javascript Deobjscrute
 [md5Online](https://www.md5online.org/md5-decrypt.html) | An on-demand dos tool
+[Dec to Ascii](https://onlineasciitools.com/convert-decimal-to-ascii) | Convert decimal (without space) to ascii
+[Hash solver](https://md5hashing.net) | Find and decode an unkown hash
 [CryptogramSolver](https://quipquip.com) | Cryptogram Solver
 [ImageForensic](http://www.imageforensic.org/) | image forensic
 [steg](http://stylesuxx.github.io/steganography/) | steganography
@@ -45,4 +47,5 @@ Tool | Description
 [Bar Code / Qr Code recover](https://merricx.github.io/qrazybox/) | Fix broken QR Code
 [Online DTMF decoder](https://dtmf-decoder.ml/) | Decode phone numbers tap sound
 [DNS Checker](https://dnschecker.org/all-dns-records-of-domain.php) | Check a website's DNS
+[Picture/Icon size Checker](https://redketchup.io/icon-editor) | Check for different image size which could contain flag
 
