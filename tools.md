@@ -41,3 +41,8 @@ Tool | Description
 [CVE-2017-0213](https://github.com/SecWiki/windows-kernel-exploits/tree/master/CVE-2017-0213) | Windows kernal exploit to gain RCE
 [Payload Of All Things](https://github.com/swisskyrepo/PayloadsAllTheThings) | Collection of payload for many different kind of exploits
 [LOLBAS](https://lolbas-project.github.io/) | Windows version of GTFOBINS
+[Stegsolve Webversion](https://aperisolve.fr/) | Alternative Stegsolve
+[Bar Code / Qr Code recover](https://merricx.github.io/qrazybox/) | Fix broken QR Code
+[Online DTMF decoder](https://dtmf-decoder.ml/) | Decode phone numbers tap sound
+[DNS Checker](https://dnschecker.org/all-dns-records-of-domain.php) | Check a website's DNS
+
