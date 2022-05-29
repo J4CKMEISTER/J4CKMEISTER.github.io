@@ -12,9 +12,9 @@ video {
 </center>
     </body>
 </html>
+<h2>Whoami</h2>
 
-About
-Hi, I’m Dejan. I'm a multi-talented human with over 10+ years of experiences in wide range of design disciplines.
+Hi, I’m Jack. I'm a multi-talented human with over 10+ years of experiences in wide range of design disciplines.
 
 You can also call me a product designer, experience designer, interaction, UI, UX or by any other market defined function-title. I'm also a multi-disciplinary maker with over 10 years of experiences in wide range of design disciplines, manager, advisor, entrepreneur, front-end developer, music enthusiast, traveler, photographer and more.
 
