@@ -14,10 +14,12 @@ video {
 </html>
 <h2>Whoami</h2>
 
-Hi, I’m Jack also known as Jackmeister .I'm a multi-talented student with few years of experiences in cybersecurity and currenlty undergoing 
-last year of my Bachleor Degree in Information Security program.
+Hi, I’m Jack also known as Jackmeister .I'm a multi-talented student with few years of experiences in cybersecurity and is currenlty undergoing my
+last year of Bachleor Degree in the Information Security program.
 
 
-Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more then willing to follow my spirit wherever they take me such as actively taking part in cyber security events like the online Capture The Flag (CTF) events , Hack The Box machines , TryHackMe machines and cybersecurity community activities.
+Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more then willing to follow my spirit wherever they take me such as
+actively taking part in cyber security events like the online Capture The Flag (CTF) events , Hack The Box machines , TryHackMe machines and 
+cybersecurity community activities.
 
 
