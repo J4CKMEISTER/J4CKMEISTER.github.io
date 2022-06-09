@@ -22,4 +22,13 @@ Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and
 actively taking part in cyber security events like the online Capture The Flag (CTF) events , Hack The Box machines , TryHackMe machines and 
 cybersecurity community activities.
 
+<h2>Certificates</h2>
+
+CompTIA PenTest+
+
+Junior Pentester
+
+CCNA
+
+
 
