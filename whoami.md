@@ -28,7 +28,8 @@ CompTIA PenTest+
 
 Junior Pentester
 
-CCNA
+CCNAv7: Switching, Routing, and Wireless Essentials ![image](https://user-images.githubusercontent.com/78603128/173039926-bef0ed04-d2d3-4ec5-bf98-9a0268b5cbcb.png)
+
 
 
 
