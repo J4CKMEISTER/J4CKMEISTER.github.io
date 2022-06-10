@@ -24,16 +24,19 @@ cybersecurity community activities.
 
 <h2>Achievements</h2>
 
-<img width="48" src="https://user-images.githubusercontent.com/78603128/173066235-9c05d227-f92b-48ee-a137-6a41e64a2528.png">
+<img width="30" src="https://user-images.githubusercontent.com/78603128/173066235-9c05d227-f92b-48ee-a137-6a41e64a2528.png">
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-V36ILWAOMM.png">CompTIA PenTest+</a>
 
-<img width="48" src="https://user-images.githubusercontent.com/78603128/173066218-506a0e24-ea95-4e9a-9d90-4742a1103c44.png">
+<img width="30" src="https://user-images.githubusercontent.com/78603128/173066218-506a0e24-ea95-4e9a-9d90-4742a1103c44.png">
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0J0CPZAAS3.png">Junior Pentester</a>
 
-<img width="48" src="https://user-images.githubusercontent.com/78603128/173066145-a2198e34-68e8-4e20-95ae-d7bbc8b10a07.png">
+<img width="30" src="https://user-images.githubusercontent.com/78603128/173066145-a2198e34-68e8-4e20-95ae-d7bbc8b10a07.png">
 <a href="https://user-images.githubusercontent.com/78603128/173065146-94363935-536b-41c6-850b-79b3720d8639.png">CCNAv7: Switching, Routing, and Wireless Essentials</a>
 
 <h2>Social Media</h2>
+<a href="https://www.linkedin.com/in/yit-eng-lee/"><img width="50" src="https://user-images.githubusercontent.com/78603128/173069869-15a8aa57-c3f0-48d3-b8a5-0609985b14fc.png"></a>
+<img width="50" src="">
+<img width="50" src="">
 
 
 
