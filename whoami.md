@@ -22,7 +22,7 @@ Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and
 actively taking part in cyber security events like the online Capture The Flag (CTF) events , Hack The Box machines , TryHackMe machines and 
 cybersecurity community activities.
 
-<h2>Certificates</h2>
+<h2>Achievements</h2>
 
 ![image](https://user-images.githubusercontent.com/78603128/173066235-9c05d227-f92b-48ee-a137-6a41e64a2528.png)
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-V36ILWAOMM.png">CompTIA PenTest+</a>
@@ -33,6 +33,7 @@ cybersecurity community activities.
 ![image](https://user-images.githubusercontent.com/78603128/173066145-a2198e34-68e8-4e20-95ae-d7bbc8b10a07.png)
 <a href="https://user-images.githubusercontent.com/78603128/173065146-94363935-536b-41c6-850b-79b3720d8639.png">CCNAv7: Switching, Routing, and Wireless Essentials</a>
 
+<h2>Social Media</h2>
 
 
 
