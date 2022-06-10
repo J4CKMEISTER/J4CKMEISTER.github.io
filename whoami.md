@@ -24,11 +24,13 @@ cybersecurity community activities.
 
 <h2>Certificates</h2>
 
-CompTIA PenTest+
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-V36ILWAOMM.png">CompTIA PenTest+</a>
 
-Junior Pentester
 
-CCNAv7: Switching, Routing, and Wireless Essentials ![image](https://user-images.githubusercontent.com/78603128/173039926-bef0ed04-d2d3-4ec5-bf98-9a0268b5cbcb.png)
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0J0CPZAAS3.png">Junior Pentester</a>
+
+<a href="https://user-images.githubusercontent.com/78603128/173065146-94363935-536b-41c6-850b-79b3720d8639.png">CCNAv7: Switching, Routing, and Wireless Essentials</a>
+
 
 
 
