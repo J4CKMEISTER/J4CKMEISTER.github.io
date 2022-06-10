@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-  <link width="16" rel="icon" type="image/x-icon" href="https://user-images.githubusercontent.com/78603128/173074102-092cdf7e-5280-4e6c-9e91-73dd1970054a.png">
+  <link width="16" rel="icon" type="image/x-icon" href="https://user-images.githubusercontent.com/78603128/173075975-97bd5378-63f5-4c65-a48d-5bac501c67cf.png">
 </head>
 <body>
 
