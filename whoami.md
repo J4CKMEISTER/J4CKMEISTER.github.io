@@ -31,11 +31,17 @@ cybersecurity community activities.
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0J0CPZAAS3.png">Junior Pentester</a>
 
 <img width="30" src="https://user-images.githubusercontent.com/78603128/173066145-a2198e34-68e8-4e20-95ae-d7bbc8b10a07.png">
-<a href="https://user-images.githubusercontent.com/78603128/173065146-94363935-536b-41c6-850b-79b3720d8639.png">CCNAv7: Switching, Routing, and Wireless Essentials</a>
+<a href="https://www.credly.com/badges/84f93979-819d-4360-bb68-0f3780c3342b/public_url">CCNAv7: Enterprise Networking, Security, and Automation</a>
+
+<img width="30" src="https://user-images.githubusercontent.com/78603128/173066145-a2198e34-68e8-4e20-95ae-d7bbc8b10a07.png">
+<a href="https://www.credly.com/badges/fbaa1104-9fec-45b7-b6be-ae58fe90ddc6/public_url">CCNAv7: Switching, Routing, and Wireless Essentials</a>
 
 <h2>Social Media</h2>
 <a href="https://www.linkedin.com/in/yit-eng-lee/"><img width="50" src="https://user-images.githubusercontent.com/78603128/173069869-15a8aa57-c3f0-48d3-b8a5-0609985b14fc.png"></a>
-<img width="50" src="">
+
+<a href="mailto:yitenglee1337@gmail.com?"><img width="50" src="https://user-images.githubusercontent.com/78603128/173190347-f3ebbdad-2d1a-43f5-ad58-c92037b70879.png
+"></a>
+
 <img width="50" src="">
 
 
