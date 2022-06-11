@@ -39,8 +39,7 @@ cybersecurity community activities.
 <h2>Social Media</h2>
 <a href="https://www.linkedin.com/in/yit-eng-lee/"><img width="50" src="https://user-images.githubusercontent.com/78603128/173069869-15a8aa57-c3f0-48d3-b8a5-0609985b14fc.png"></a>
 
-<a href="mailto:yitenglee1337@gmail.com?"><img width="50" src="https://user-images.githubusercontent.com/78603128/173190347-f3ebbdad-2d1a-43f5-ad58-c92037b70879.png
-"></a>
+<a href="mailto:yitenglee1337@gmail.com?"><img width="50" src="https://toppng.com/uploads/preview/white-email-icon-transparent-115494023552ebrulhcmd.png"></a>
 
 <img width="50" src="">
 
