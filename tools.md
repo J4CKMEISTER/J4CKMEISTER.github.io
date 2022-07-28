@@ -47,7 +47,7 @@ Tool | Description
 [Bar Code / Qr Code recover](https://merricx.github.io/qrazybox/) | Fix broken QR Code
 [Online DTMF decoder](https://dtmf-decoder.ml/) | Decode phone numbers tap sound
 [DNS Checker](https://dnschecker.org/all-dns-records-of-domain.php) | Check a website's DNS
-[nslookup](nslookup domain.name) | Check a website's DNS history for linux
+[nslookup](https://www.geeksforgeeks.org/nslookup-command-in-linux-with-examples) | Check a website's DNS history for linux
 [Picture/Icon size Checker](https://redketchup.io/icon-editor) | Check for different image size which could contain flag
-
+[DCODE](https://www.dcode.fr/tools-list) | All in one cipher tool
 
