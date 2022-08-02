@@ -89,7 +89,7 @@ function myFunction() {
 
     localStorage.setItem("on_load_counter", n);
 
-    document.getElementById('CounterVisitor').innerHTML = 'you have visited this page '+ n + ' times';
+    document.getElementById('CounterVisitor').innerHTML = 'You have visited this page '+ n + ' times';
 
                      
 </script>
