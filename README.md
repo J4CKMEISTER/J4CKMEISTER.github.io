@@ -44,7 +44,7 @@ body {
 </style>
 </head>
 
-<body>
+<body onload="typeWritter()">
   <center>
 <video autoplay muted loop id="myVideo">
   <source src="https://user-images.githubusercontent.com/78603128/170877724-332269f6-0f7d-4ea0-a723-8ba7e1c3a7ac.mp4" type="video/mp4">
@@ -53,14 +53,11 @@ body {
   </center>
 <center>
 <div class="content">
-  <p id ="helloworld"><h1></h1></p>
+  <h1><p id ="helloworld"></p></h1>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
 </center>
 <script>
-  window.onload = function() {
-  typeWritter();
-};
 var video = document.getElementById("myVideo");
 var btn = document.getElementById("myBtn");
 
