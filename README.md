@@ -48,14 +48,13 @@ body {
 </head>
 <body>
 
-<video autoplay muted loop id="myVideo">
+<video width="70%" autoplay muted loop id="myVideo">
   <source src="https://user-images.githubusercontent.com/78603128/170877724-332269f6-0f7d-4ea0-a723-8ba7e1c3a7ac.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
+ 
 </video>
 
 <div class="content">
-  <h1>Heading</h1>
-  <p><h1>Hello world ! This is my personal website created to soley share the experience of information security that I learnt along the journey in the cyber security industry</h1></p>
+  <p><h1>Hello world ! This is my personal website created to soley share <br/> the experience of information security that I learnt along the journey in the cyber security industry</h1></p>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
 
