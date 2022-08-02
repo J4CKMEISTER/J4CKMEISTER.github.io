@@ -14,8 +14,7 @@ body {
 }
 
 #myVideo {
-  right: 0;
-  bottom: 0;
+  position: fixed;
 }
 
 .content {
