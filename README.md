@@ -47,10 +47,14 @@ body {
 <body onload="typeWriter()">
   <center>
 <video autoplay muted loop id="myVideo">
-  <source src="https://user-images.githubusercontent.com/78603128/170877724-332269f6-0f7d-4ea0-a723-8ba7e1c3a7ac.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/78603128/182293714-5fc8a23d-fc97-445b-a28a-4de4744e9d6e.mp4" type="video/mp4">
  
 </video>
   </center>
+
+
+
+
 <center>
 <div class="content">
   <h1><p id ="helloworld"></p>Hello world ! This is my personal website created to soley share the experience of information security that I learnt along
