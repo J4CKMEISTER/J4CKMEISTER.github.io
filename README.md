@@ -61,9 +61,8 @@ body {
   the journey in the cyber security industry</h1>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
-  <div id="CounterVisitor">
-<h1></h1>
-</div>
+  <br/>
+  <div id="CounterVisitor"></div>
 </center>
 <script>
 var video = document.getElementById("myVideo");
@@ -90,7 +89,7 @@ function myFunction() {
 
     localStorage.setItem("on_load_counter", n);
 
-    document.getElementById('CounterVisitor').innerHTML = n;
+    document.getElementById('CounterVisitor').innerHTML = 'you have visited this page '+ n + ' times';
 
                      
 </script>
