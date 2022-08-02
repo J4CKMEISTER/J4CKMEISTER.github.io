@@ -17,8 +17,6 @@ body {
   position: fixed;
   right: 0;
   bottom: 0;
-  min-width: 100%; 
-  min-height: 100%;
 }
 
 .content {
@@ -52,12 +50,13 @@ body {
   <source src="https://user-images.githubusercontent.com/78603128/170877724-332269f6-0f7d-4ea0-a723-8ba7e1c3a7ac.mp4" type="video/mp4">
  
 </video>
-
+<center>
 <div class="content">
-  <p><h1>Hello world ! This is my personal website created to soley share <br/> the experience of information security that I learnt along the journey in the cyber security industry</h1></p>
+  <p><h1>Hello world ! This is my personal website created to soley share <br/> the experience of information security that I learnt along
+  <br/>the journey in the cyber security industry</h1></p>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
-
+</center>
 <script>
 var video = document.getElementById("myVideo");
 var btn = document.getElementById("myBtn");
