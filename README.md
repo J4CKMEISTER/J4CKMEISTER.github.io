@@ -53,12 +53,15 @@ body {
   </center>
 <center>
 <div class="content">
-  <p><h1>Hello world ! This is my personal website created to soley share the experience of information security that I learnt along
+  <p id ="helloworld"><h1>Hello world ! This is my personal website created to soley share the experience of information security that I learnt along
   the journey in the cyber security industry</h1></p>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
 </center>
 <script>
+  window.onload = function() {
+  typeWritter();
+};
 var video = document.getElementById("myVideo");
 var btn = document.getElementById("myBtn");
 
@@ -71,6 +74,21 @@ function myFunction() {
     btn.innerHTML = "Play";
   }
 }
+  
+  var i = 0;
+var txt = 'Hello world ! This is my personal website created to soley share the experience of information security that I learnt along
+  the journey in the cyber security industry';
+var speed = 50;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("helloworld").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+
+                     
 </script>
 
 </body>
