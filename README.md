@@ -14,8 +14,7 @@ body {
 }
 
 #myVideo {
-   width: 70%;
-  position: fixed;
+  width: 70%;
   right: 0;
   bottom: 0;
 }
