@@ -57,7 +57,7 @@ body {
 
 <center>
 <div class="content">
-  <h1><p id ="helloworld"></p>Hello world ! This is my personal website created to soley share the experience of information security that I learnt along
+  <h1><p id ="helloworld"></p>Hello world ! This is my personal website created soley for the purpose of sharing my experience of information security that I learnt along
   the journey in the cyber security industry</h1>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
