@@ -22,7 +22,7 @@ body {
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   color: #f1f1f1;
-  width: 70%;
+  width: 100%;
   padding: 20px;
 }
 
@@ -52,8 +52,8 @@ body {
   </center>
 <center>
 <div class="content">
-  <p><h1>Hello world ! This is my personal website created to soley share <br/> the experience of information security that I learnt along
-  <br/>the journey in the cyber security industry</h1></p>
+  <p><h1>Hello world ! This is my personal website created to soley share the experience of information security that I learnt along
+  the journey in the cyber security industry</h1></p>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
 </center>
