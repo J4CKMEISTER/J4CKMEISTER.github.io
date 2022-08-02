@@ -9,7 +9,7 @@
 
 body {
   margin: 0;
-  font-family: Arial;
+  font-family: Rockwell;
   font-size: 17px;
 }
 
