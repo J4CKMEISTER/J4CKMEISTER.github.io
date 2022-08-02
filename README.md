@@ -43,12 +43,14 @@ body {
 }
 </style>
 </head>
+  <center>
 <body>
 
 <video width="50%" autoplay muted loop id="myVideo">
   <source src="https://user-images.githubusercontent.com/78603128/170877724-332269f6-0f7d-4ea0-a723-8ba7e1c3a7ac.mp4" type="video/mp4">
  
 </video>
+  </center>
 <center>
 <div class="content">
   <p><h1>Hello world ! This is my personal website created to soley share <br/> the experience of information security that I learnt along
