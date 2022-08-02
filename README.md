@@ -53,7 +53,8 @@ body {
   </center>
 <center>
 <div class="content">
-  <h1><p id ="helloworld"></p></h1>
+  <h1><p id ="helloworld"></p>Hello world ! This is my personal website created to soley share the experience of information security that I learnt along
+  the journey in the cyber security industry</h1>
   <button id="myBtn" onclick="myFunction()">Pause</button>
 </div>
 </center>
@@ -71,18 +72,7 @@ function myFunction() {
   }
 }
   
-  var i = 0;
-var txt = 'Hello world ! This is my personal website created to soley share the experience of information security that I learnt along
-  the journey in the cyber security industry';
-var speed = 50;
 
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("helloworld").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
 
                      
 </script>
