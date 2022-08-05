@@ -21,5 +21,6 @@ Website | Description
 -----|------------
 [HackTheBox](https://app.hackthebox.com/home) | Advanced Platform for learning Pentest and CTF
 [TryHackMe](https://tryhackme.com/dashboard)  | Begineer Friendly Platform for learning Pentest and CTF
+[HackSplaining](https://www.hacksplaining.com/) | Website with web explotation lessons
 
 
