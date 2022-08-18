@@ -6,7 +6,7 @@
 
 ## Latest updates
 
-
+<meta property="og:url" content="https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner.sh" />
 
 <script>
 
