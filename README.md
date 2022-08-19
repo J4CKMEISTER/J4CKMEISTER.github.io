@@ -23,6 +23,10 @@
 <blockquote><td>Linux Version Checker</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/linux-version-checker.sh">Bash script that run common version checking commands</a></td></blockquote> 
 </tr>
     
+<tr>
+<blockquote><td>Javascript Visit Counter</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/js-counter.js">Javascript that keep track of number of times the webpage is visited</a></td></blockquote> 
+</tr>
+
 </table>
 
 
