@@ -1,5 +1,5 @@
 
-<html>
+<html prefix="og: https://ogp.me/ns#">
 
 <body>
 <center><div id="CounterVisitor"></div></center>
