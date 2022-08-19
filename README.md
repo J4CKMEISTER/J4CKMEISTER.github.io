@@ -5,10 +5,10 @@
 <center><div id="CounterVisitor"></div></center>
 
 <h2>Latest Updates</h2>
-<blockquote><p>IP Address Scanner V2 | https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner2.sh </p></blockquote>
-<blockquote><p>Base Converter | https://github.com/J4CKMEISTER/Tools/blob/main/baseConverter.py</p></blockquote>
-<blockquote><p>IP Address Scanner V1 | https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner.sh</p></blockquote>
-<blockquote><p>Linux Version Checker | https://github.com/J4CKMEISTER/Tools/blob/main/linux-version-checker.sh</p></blockquote>
+<blockquote><p>[IP Address Scanner V2] | https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner2.sh </p></blockquote>
+<blockquote><p>[Base Converter] | https://github.com/J4CKMEISTER/Tools/blob/main/baseConverter.py</p></blockquote>
+<blockquote><p>[IP Address Scanner V1] | https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner.sh</p></blockquote>
+<blockquote><p>[Linux Version Checker] | https://github.com/J4CKMEISTER/Tools/blob/main/linux-version-checker.sh</p></blockquote>
 
 
 
