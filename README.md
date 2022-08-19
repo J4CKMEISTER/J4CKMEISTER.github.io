@@ -8,19 +8,19 @@
     
 <table>
 <tr>
-<blockquote><td>IP Address Scanner V2</td><td><a>https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner2.sh</a></td></blockquote>
+<blockquote><td>IP Address Scanner V2</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner2.sh">Second version of bash script to scan for ip address</a></td></blockquote>
 </tr>
 
 <tr>
-<blockquote><td>Base Converter</td><td><a>https://github.com/J4CKMEISTER/Tools/blob/main/baseConverter.py</a></td></blockquote> 
+<blockquote><td>Base Converter</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/baseConverter.py">A base python base converter</a></td></blockquote> 
 </tr>
 
 <tr>
-<blockquote><td>IP Address Scanner V1</td><td><a>https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner.sh</a></td></blockquote> 
+<blockquote><td>IP Address Scanner V1</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner.sh">First version of bash script to scan for ip address</a></td></blockquote> 
 </tr>
 
 <tr>
-<blockquote><td>Linux Version Checker</td><td><a>https://github.com/J4CKMEISTER/Tools/blob/main/linux-version-checker.sh</a></td></blockquote> 
+<blockquote><td>Linux Version Checker</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/linux-version-checker.sh">Bash script that run common version checking commands</a></td></blockquote> 
 </tr>
     
 </table>
