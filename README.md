@@ -2,6 +2,11 @@
 <center><div id="CounterVisitor"></div></center>
 
 <h2>Latest Updates</h2>
+Tool | Description
+-----|------------
+[Vigenere-Solver](https://www.guballa.de/vigenere-solver) | Vigenere bruteforce / decoder
+
+
                 Subject | Description
 ------------------------|------------------------------------------------------------------------
 [IP Address Scanner V2](https://www.guballa.de/vigenere-solver)  | https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner2.sh 
