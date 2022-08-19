@@ -5,6 +5,7 @@
 <center><div id="CounterVisitor"></div></center>
 
 <h2>Latest Updates</h2>
+                Subject | Description
 ------------------------|------------------------------------------------------------------------
 [IP Address Scanner V2] | https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner2.sh 
 [Base Converter] | https://github.com/J4CKMEISTER/Tools/blob/main/baseConverter.py
