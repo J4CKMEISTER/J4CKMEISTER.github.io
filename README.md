@@ -5,10 +5,10 @@
 <center><div id="CounterVisitor"></div></center>
 
 <h2>Latest Updates</h2>
-<code>IP Address Scanner V2</code>
-<code>Base Converter</code>
-<code>IP Address Scanner V1</code>
-<code>Linux Version Checker</code>
+<blockquote><p>IP Address Scanner V2</p></blockquote>
+<blockquote><p>Base Converter</p></blockquote>
+<blockquote><p>IP Address Scanner V1</p></blockquote>
+<blockquote><p>Linux Version Checker</p></blockquote>
 
 
 
