@@ -22,5 +22,16 @@ Website | Description
 [HackTheBox](https://app.hackthebox.com/home) | Advanced Platform for learning Pentest and CTF
 [TryHackMe](https://tryhackme.com/dashboard)  | Begineer Friendly Platform for learning Pentest and CTF
 [HackSplaining](https://www.hacksplaining.com/) | Website with web explotation lessons
-
-
+[Pentester Lab](https://pentesterlab.com/) | Free limited pentest lab
+[tcm-security](https://academy.tcm-sec.com/) | TCM courses
+[Vulnhub](https://www.vulnhub.com/) | Downloadable machines
+[Offensive Security](https://www.offensive-security.com) | Road to OSCP
+[Vulnmachines](https://www.vulnmachines.com/) | Vulnmachines
+[Portswigger Web Security Academy](https://portswigger.net/web-security) | Burpsuite based
+[Hacker101](https://www.hacker101.com/) | Road to Bug Bounty Hunter
+[PicoCTF](https://play.picoctf.org/practice) | Practice your ctf skill !
+[HackMyVm](https://hackmyvm.eu/) | EU based
+[Try2hack](https://try2hack.me/) | Game based
+[Cybrary](https://www.cybrary.it/) | Training platform
+[INE Security](https://ine.com/learning/areas/cyber-security) | Road to EJPT
+[PWNTillDawn](https://online.pwntilldawn.com) | Singapored based , need find ip to root
