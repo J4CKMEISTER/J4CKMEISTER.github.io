@@ -1,4 +1,5 @@
 
+<link rel="icon" href="https://user-images.githubusercontent.com/78603128/193405439-d44c4c2f-a483-4b82-8114-c6f3873bd9c1.png">
 <center><div id="CounterVisitor"></div></center>
 
 <h2>Latest Updates</h2>
