@@ -8,7 +8,10 @@
 
     
 <table>
- 
+  <tr>
+<blockquote><td>Updated pentest tools</td><td><a href="https://j4ckmeister.github.io/tools">Added more contents</a></td></blockquote>
+</tr>   
+    
  <tr>
 <blockquote><td>Updated GitBook</td><td><a href="https://jackmeister.gitbook.io/ctf-writeups/">Added more contents</a></td></blockquote>
 </tr>   
