@@ -52,3 +52,8 @@ Tool | Description
 [DCODE](https://www.dcode.fr/tools-list) | All in one cipher tool
 [RsaCTFTool](https://github.com/RsaCtfTool/RsaCtfTool) | Rsa brute force tool , given n c e
 [Pimeyes](https://pimeyes.com/en) | Reverse image search tool , limited to 10 search a day
+[EchoTrail](https://www.echotrail.io/) | Window's gtfo bin , check any exe file name
+[AppAnyRun](https://app.any.run/) | Malware sandbox , run unknown files
+[VirusTotal](https://www.virustotal.com/gui/home/upload) | Malware file analysis
+[Monitor Shodan](https://monitor.shodan.io/) | Check what your monitor is connected to
+[UrlScan](urlscan.io) | Check suspicious urls and links
