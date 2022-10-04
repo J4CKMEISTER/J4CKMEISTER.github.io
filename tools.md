@@ -57,3 +57,5 @@ Tool | Description
 [VirusTotal](https://www.virustotal.com/gui/home/upload) | Malware file analysis
 [Monitor Shodan](https://monitor.shodan.io/) | Check what your monitor is connected to
 [UrlScan](urlscan.io) | Check suspicious urls and links
+[MagicEraser](https://www.magiceraser.io/) | Remove unwanted things from image
+[PDFDrive](https://www.pdfdrive.com/) | Search and download free pdf
