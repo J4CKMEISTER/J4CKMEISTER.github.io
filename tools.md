@@ -59,3 +59,4 @@ Tool | Description
 [UrlScan](urlscan.io) | Check suspicious urls and links
 [MagicEraser](https://www.magiceraser.io/) | Remove unwanted things from image
 [PDFDrive](https://www.pdfdrive.com/) | Search and download free pdf
+[HackTricks](https://book.hacktricks.xyz/welcome/readme) | google search for any exploit with the word "hacktricks"
