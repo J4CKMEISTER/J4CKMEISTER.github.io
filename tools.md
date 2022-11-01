@@ -21,7 +21,7 @@ Tool | Description
 [Vigenere-Solver](https://www.guballa.de/vigenere-solver) | Vigenere bruteforce / decoder
 [CyberChef](https://gchq.github.io/) | crypto solver
 [GTFOBins](https://gtfobins.github.io/) | SUID priv esca finder
-[Crontab-Guru]([https://crontab.guru/every-2-minutes](https://crontab.guru/#*/5_6-10_1_*_*)) | crontab exploit
+[Crontab-Guru](https://crontab.guru/#*/5_6-10_1_*_*) | crontab exploit
 [Crackstation](https://crackstation.net/) | password cracker
 [exif.regex](http://exif.regex.info/exif.cgi) | exif
 [Hash-Analyzer](https://www.tunnelsup.com/hash-analyzer/) | Hash analyzer
