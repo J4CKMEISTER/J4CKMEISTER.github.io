@@ -9,7 +9,7 @@
     
 <table>
      <tr>
-<blockquote><td>IP Address Scanner V3</td><td><a href="https://j4ckmeister.github.io/tools">Updated according to feedbacks</a></td></blockquote>
+<blockquote><td>IP Address Scanner V3</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner3.sh">Updated according to feedbacks</a></td></blockquote>
 </tr> 
   <tr>
 <blockquote><td>Updated pentest tools</td><td><a href="https://j4ckmeister.github.io/tools">Added more contents</a></td></blockquote>
