@@ -8,6 +8,9 @@
 
     
 <table>
+<tr>
+<blockquote><td>Hermoso root exploit</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/hermoso2root.sh">script created to gain root from MCC2022 Hermoso machine </a></td></blockquote>
+</tr> 
      <tr>
 <blockquote><td>IP Address Scanner V3</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/ip-scanner3.sh">Updated according to feedbacks</a></td></blockquote>
 </tr> 
