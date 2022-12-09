@@ -9,6 +9,16 @@
     
 <table>
 <tr>
+<blockquote><td>MCC2022 THM S1mple0nly b2root Writeup</td><td><a href="https://jackmeister.gitbook.io/ctf-writeups/tryhackme/s1mple0nly-b2r">Writeup for MCC2022 S1mple0nly b2root , easy boot to root machine </a></td></blockquote>
+</tr> 
+<tr>
+<blockquote><td>MCC2022 THM This is so Easy Writeup</td><td><a href="https://jackmeister.gitbook.io/ctf-writeups/tryhackme/this-is-so-easy">Writeup for MCC2022 This is so Easy , easy boot to root machine </a></td></blockquote>
+</tr> 
+<tr>
+<blockquote><td>MCC2022 THM Hermoso Writeup</td><td><a href="https://jackmeister.gitbook.io/ctf-writeups/tryhackme/hermoso">Writeup for MCC2022 Hermoso , medium boot to root machine </a></td></blockquote>
+</tr> 
+
+<tr>
 <blockquote><td>Hermoso root exploit</td><td><a href="https://github.com/J4CKMEISTER/Tools/blob/main/hermoso2root.sh">script created to gain root from MCC2022 Hermoso machine </a></td></blockquote>
 </tr> 
      <tr>
