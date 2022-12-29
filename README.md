@@ -9,6 +9,12 @@
     
 <table>
 <tr>
+<blockquote><td>Updated pentest tools</td><td><a href="https://j4ckmeister.github.io/tools">Added more contents</a></td></blockquote>
+</tr> 
+<tr>
+<blockquote><td>Updated websites</td><td><a href="https://j4ckmeister.github.io/websites">Added more contents</a></td></blockquote>
+</tr> 
+<tr>
 <blockquote><td>Cyberverse</td><td><a href="http://cyberverse.rf.gd/home.php">A damn vulnerable website as FYP Project</a></td></blockquote>
 </tr> 
 <tr>
