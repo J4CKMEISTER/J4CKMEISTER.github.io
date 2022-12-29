@@ -37,12 +37,6 @@ Website | Description
 [PWNTillDawn](https://online.pwntilldawn.com) | Singapored based , need find ip to root
 [ligben](https://libgen.is) | Sea of free books 
 [Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) | Pentest Cheat Sheets
-[GoodHound](https://github.com/idnahacks/GoodHound) | GoodHound operationalises Bloodhound by determining the busiest paths to high value targets and creating actionable output to prioritise remediation of attack paths.
 [Penetration Testing Methodologies](https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies) | Penetration Testing Methodologies
 [Penetration Testing Framework 0.59](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html) | Penetration Testing Framework
-[BloodHound](https://github.com/fox-it/BloodHound.py) | BloodHound
-[HackTricks Checklist - Local Windows Privilege Escalation](https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation) |  Checklist for Local Windows Privilege Escalation
 [TCM Course Resources](https://github.com/TCM-Course-Resources) | TCM Course Resources
-[Vehicle OSINT Tool Collection](https://github.com/TheBurnsy/Vehicle-OSINT-Collection) | Vehicle OSINT Tool Collection
-[openai chat](https://chat.openai.com/chat) | ai chat
-[AORT](https://github.com/D3Ext/AORT) | All in One Recon Tool
