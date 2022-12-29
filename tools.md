@@ -64,3 +64,9 @@ Tool | Description
 [Libgen](https://libgen.is/) | Sea of free e-books
 [tofeeshare](toffeeshare.com) | Instant delete file sharing after host close tab
 [unscreen](https://www.unscreen.com/) | Remove Video Background for free
+[Vehicle OSINT Tool Collection](https://github.com/TheBurnsy/Vehicle-OSINT-Collection) | Vehicle OSINT Tool Collection
+[openai chat](https://chat.openai.com/chat) | ai chat
+[AORT](https://github.com/D3Ext/AORT) | All in One Recon Tool
+[BloodHound](https://github.com/fox-it/BloodHound.py) | BloodHound
+[HackTricks Checklist - Local Windows Privilege Escalation](https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation) |  Checklist for Local Windows Privilege Escalation
+[GoodHound](https://github.com/idnahacks/GoodHound) | GoodHound operationalises Bloodhound by determining the busiest paths to high value targets and creating actionable output to prioritise remediation of attack paths.
