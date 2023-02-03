@@ -70,3 +70,6 @@ Tool | Description
 [BloodHound](https://github.com/fox-it/BloodHound.py) | BloodHound
 [HackTricks Checklist - Local Windows Privilege Escalation](https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation) |  Checklist for Local Windows Privilege Escalation
 [GoodHound](https://github.com/idnahacks/GoodHound) | GoodHound operationalises Bloodhound by determining the busiest paths to high value targets and creating actionable output to prioritise remediation of attack paths.
+[SilentHound](https://github.com/layer8secure/SilentHound) | A lightweight tool to quickly and quietly enumerate an Active Directory environment. The goal of this tool is to get a Lay of the Land whilst making as little noise on the network as possible. The tool will make one LDAP query that is used for parsing, and create a cache file to prevent further queries/noise on the network. If no credentials are passed it will attempt anonymous BIND.
+
+Using the -o flag will result in output files for each section normally in stdout. The files created using all flags will be:
