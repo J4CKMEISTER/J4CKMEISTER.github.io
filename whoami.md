@@ -14,15 +14,14 @@ video {
 </html>
 <h2>Whoami</h2>
 
-Hi, I’m Jack also known as Jackmeister .I'm a multi-talented student with few years of experiences in cybersecurity and is currenlty undergoing my
-last year of Bachleor Degree in the Information Security program.
+Yit Eng Lee , also known as Jackmeister is a Cybersecurity Enthusiast. He has multiple experiences in CTF and pentesting on platform such as HackTheBox and TryHackMe. He specializes in compromising Boot to Root (Boot2Root) virtual machines mostly through web pentesting. On his free time , he gets his hand dirty on offensive security labs like TryHackMe, HackTheBox and hone his CTF skill on PicoGym(PicoCTF).
 
-
-Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more then willing to follow my spirit wherever they take me such as
-actively taking part in cyber security events like the online Capture The Flag (CTF) events , Hack The Box machines , TryHackMe machines and 
-cybersecurity community activities.
+He is currently in his final-year of Bachelor of Information Technology (Honours) in Information Security at Tunku Abdul Rahman University of Management and Technology (TAR UMT) , formerly TARUC.
 
 <h2>Achievements</h2>
+
+<img width="30" src="https://user-images.githubusercontent.com/78603128/216825315-6531f7c9-15dc-43d8-898a-89ee7c214c77.png">
+<a href="https://www.udemy.com/certificate/UC-2850233a-37ec-4431-8212-42b7210843e9/">Pentesting 101: The Ultimate Hacking Guide Start To Finish by David Bombal and XSS Rat</a>
 
 <img width="30" src="https://user-images.githubusercontent.com/78603128/173066235-9c05d227-f92b-48ee-a137-6a41e64a2528.png">
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-V36ILWAOMM.png">CompTIA PenTest+</a>
@@ -41,7 +40,7 @@ cybersecurity community activities.
 
 <a href="mailto:yitenglee1337@gmail.com?"><img width="50" src="https://user-images.githubusercontent.com/78603128/173190478-042e7e6a-4958-40a2-a86c-b17d697e9585.png"></a>
 
-<img width="50" src="">
+
 
 
 
