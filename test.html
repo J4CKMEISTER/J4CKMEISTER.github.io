@@ -26,6 +26,8 @@
       padding: 1rem;
       min-width: 250px;
       height: 100vh;
+      position: sticky;
+      top: 0;
     }
 
     #sidebar a {
@@ -45,6 +47,7 @@
 
     #main-content {
       padding: 1rem;
+      margin-left: 260px; /* To create space for the sidebar */
     }
 
     .post-preview h1 {
@@ -66,6 +69,25 @@
       color: #fff;
       padding: 1rem;
       text-align: center;
+      clear: both; /* To prevent footer overlapping with content */
+    }
+
+    /* Adjust styles for the user profile picture */
+    .user-profile {
+      position: sticky;
+      top: 80px; /* Adjust the distance from the top as needed */
+      margin-left: 10px; /* Adjust the distance from the left as needed */
+      width: 200px; /* Adjust the image width as needed */
+    }
+
+    /* Add some additional styles for responsiveness */
+    @media (max-width: 768px) {
+      #main-content {
+        margin-left: 0;
+      }
+      .user-profile {
+        display: none; /* Hide the user profile picture on smaller screens */
+      }
     }
   </style>
 </head>
@@ -76,6 +98,9 @@
   </header>
 
   <div id="sidebar">
+    <!-- Add your user profile picture here -->
+    <img class="user-profile" src="https://example.com/user-profile-picture.jpg" alt="User Profile">
+    
     <ul>
       <li><a href="/">HOME</a></li>
       <li><a href="/categories/">CATEGORIES</a></li>
