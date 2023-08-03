@@ -4,7 +4,7 @@
 
 <h2>Latest Updates</h2>
 
-
+<hr>
 <table>
 <tr>
 <blockquote><td>Created Jackmeister's Playbook</td><td><a href="https://jackmeister.gitbook.io/jackmeister-playbook/">Jackmeister's pentest framework</a></td></blockquote>
