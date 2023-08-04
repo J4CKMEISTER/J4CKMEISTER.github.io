@@ -10,8 +10,10 @@
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   /* This will set the header to take up the full height of its container */
 /* The container will be a flexbox container with horizontal direction */
+/* The container will be a flexbox container with a column layout */
 .container {
   display: flex;
+  flex-direction: row; /* Set the direction to row (horizontal) */
 }
 
 /* The header will take up the full height and have a fixed width */
@@ -27,6 +29,7 @@ header {
   flex: 1; /* This will make the contents occupy the remaining space */
   padding: 16px; /* Optional padding for the contents */
 }
+
 
 </style>
 </head>
