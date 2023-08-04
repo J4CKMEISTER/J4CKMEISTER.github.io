@@ -9,23 +9,25 @@
 <style>
 body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   /* This will set the header to take up the full height of its container */
-header {
-  height: 100%;
-}
-
-/* This will align the header's contents to the left side */
-.w3-left {
-  text-align: left;
-}
-
-/* If you want to make the header occupy the full height of the viewport */
-/* You can use the following CSS for the container element (body or other parent) */
-/* Adjust the height as needed */
+/* The container will be a flexbox container with horizontal direction */
 .container {
-  height: 100vh; /* This will set the container height to the full viewport height */
-  display: flex; /* Use flexbox to align the header vertically */
-  align-items: center; /* Center the header vertically within the container */
+  display: flex;
 }
+
+/* The header will take up the full height and have a fixed width */
+header {
+  height: 100vh; /* This will set the header height to the full viewport height */
+  width: 200px; /* Adjust this value as needed */
+  background-color: #f2f2f2; /* Optional background color for the header */
+  padding: 16px; /* Optional padding for the header */
+}
+
+/* The contents will take up the remaining space */
+.contents {
+  flex: 1; /* This will make the contents occupy the remaining space */
+  padding: 16px; /* Optional padding for the contents */
+}
+
 </style>
 </head>
 <body class="w3-light-grey">
@@ -35,10 +37,15 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-content" style="max-width:1400px">
 
 <!-- Header -->
+<div class="container">
   <header class="w3-container w3-left w3-padding-32">
-  <h1><b>MY BLOG</b></h1>
-  <p>Welcome to the blog of <span class="w3-tag">unknown</span></p>
-</header>
+    <h1><b>MY BLOG</b></h1>
+    <p>Welcome to the blog of <span class="w3-tag">unknown</span></p>
+  </header>
+  <div class="contents">
+    <!-- Your content goes here -->
+  </div>
+</div>
 <!-- Grid -->
 <div class="w3-row">
 
