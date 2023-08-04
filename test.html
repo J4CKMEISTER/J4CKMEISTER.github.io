@@ -9,6 +9,25 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+.image-container {
+  height: 300px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.image-container img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1;
+  background-size: cover;
+}
 
 </style>
 </head>
@@ -48,8 +67,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 <div class="w3-col 20 s12">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-black">
+    <div class="image-container">
 <img src="https://imgs.search.brave.com/lXGHuddI2GSdnCN0ZMX-lFvcnBoYiTNKQnFoDLpY_mU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ldXJv/cGUxLmRpc2NvdXJz/ZS1jZG4uY29tL2hh/Y2t0aGVib3gvb3B0/aW1pemVkLzFYLzdh/OWNjMGRmMTgyNTQ0/YTExYjVkNWFlZjk3/MzllZTYzNWE3MDI3/N2ZfMl82OTB4Mzg4/LmpwZWc" style="height:300px;width:100%">
-    <div class="w3-container">
+    </div>
+      <div class="w3-container">
       <h3><b>Active HackTheBox Walkthrough</b></h3>
       <p>Active is another easy difficulity Active Directory Machines that I came across during the hackthebox free bootcamp month and it features some interesting active directory concepts</p>
       <div class="w3-row">
