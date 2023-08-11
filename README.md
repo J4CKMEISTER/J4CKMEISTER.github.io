@@ -6,7 +6,9 @@
 
 <table>
 <tr>
-<blockquote><td>Created Jackmeister's Playbook</td><td><a href="https://jackmeister.gitbook.io/jackmeister-playbook/">Jackmeister's pentest framework</a></td></blockquote>
+<blockquote><td>Created Jackmeister's Playbook
+<br>jqwjewjq wqje jwqjejwje jwqjej wqje jwqjejwqjewqj ejwqje wqjej wqjejw qjejwq jejwqje jwqej wqjejwqewj qejwqje wqje jqwe wqew qjejwq jewqje jwqejw qjej wqj
+</td><td><a href="https://jackmeister.gitbook.io/jackmeister-playbook/">Jackmeister's pentest framework</a></td></blockquote>
 </tr> 
 <tr>
 <blockquote><td>Created Jack of All BL4D3S</td><td><a href="https://github.com/J4CKMEISTER/Jack-of-All-BL4D3S">Collection of Scripts and Payloads</a></td></blockquote>
