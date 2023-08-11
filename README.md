@@ -5,6 +5,9 @@
 <h2>Latest Updates</h2>
 
 <table>
+ <tr>
+<blockquote><td>Created Blog</td><td><a href="https://j4ckmeister.github.io/home.html">Blog bla bla</a></td></blockquote>
+</tr> 
 <tr>
 <blockquote><td>Created Jackmeister's Playbook</td><td><a href="https://jackmeister.gitbook.io/jackmeister-playbook/">Jackmeister's pentest framework</a></td></blockquote>
 </tr> 
